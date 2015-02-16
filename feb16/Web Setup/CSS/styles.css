@@ -1,0 +1,75 @@
+h1{
+	font-family: 'Copse', serif;	/*this is a comment*/
+	font-size:	36px;
+	font-color:#fff;
+	text-align:center;
+
+}
+h3{
+	font-family: 'Copse', serif;	/*this is a comment*/
+	font-size:	36px;
+	font-color:#fff;
+
+}
+#con{
+	padding-left: 30%;
+}
+h2{
+	font-family: 'Copse', serif;	/*this is a comment*/
+	font-size:	28px;
+	font-color:#fff;
+}
+p{
+	font-family: 'Copse', serif;
+	font-size: 8px;
+	font-color:#fff;
+}
+body{
+	background-image: url("../Images/coffeebkg3.jpg");
+}
+
+.cup3{
+	width: 80%;
+
+}
+
+.Yes{
+	position: relative;
+	left: 72px;
+	top: 150px;
+}
+
+.No{
+	position: relative;
+	left: 78px;
+	top: 150px;
+}
+
+#container-1{
+	width: 250px;
+	height: 250px;
+	-webit-box-sizing:	border-box;
+	-moz-box-setting: border-box;
+	box-sizing: border-box;
+}
+
+
+#container-2{
+	
+	width: 250px;
+	height: 250px;
+	-webkit-box-sizing: border-box;
+	-moz-box-setting: border-box;
+	box-sizing: border-box;
+}
+.container{
+	display:inline-block;
+}
+@media (max-width: 650 px){
+	#container-1{
+		width: 100%;
+	}
+	#container-2{
+		background:#000;
+	}
+}
