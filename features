@@ -1,0 +1,15 @@
+Different steps for fair trade coffee quiz:
+
+1. Start menu
+Start Quiz button that will take to first question
+
+2. Automated pop-ups
+Display “incorrect” pop up, when the thumbnail is clicked
+Display “good job” pop up when the correct thumbnail is clicked
+
+3. Moving on
+Continue button at the bottom that can be clicked regardless of  the answer
+
+4. Filling coffee cup
+With every correct answer an, empty coffee maker gets a little more coffee
+On the opposite side of the continue button
